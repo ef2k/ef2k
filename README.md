@@ -6,7 +6,7 @@ Well here it is...
 
 I like building anything (and everything) that has actual use in the 🌎. At this stage in life, I'm trying to leave things better than I found them. Lucky for me, I'm able to work on mission critical software at RapidSOS 🚔 🚒 🚑 
 
-I warn you — anything you find in my repos is likely code I've written for fun and not meant to showcase my skills or do anything for my "brand". It's purely for fun and in tradition with the early days of GitHub. Cheers 🍻 to the legend `_why`, who inspired me to share most of the things I have scattered in these repos.
+I warn you — anything you find in my repos is likely code I've written for fun and not meant to showcase my skills or do anything for my "brand". It's purely for fun and in tradition with the early days of GitHub. Cheers 🍻 to the legend `_why`, who inspired me to share most of the things I've hacked on in the open.
 
 <!--
 **ef2k/ef2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
