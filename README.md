@@ -4,7 +4,7 @@ Somehow you've ended up on my page!
 
 Well here it is...
 
-I like building everything (and anything) that has actual use in the 🌎. At this stage in life, I'm trying to leave things better than I found them. Lucky for me, I'm able to work on mission critical software at RapidSOS.
+I like building everything (and anything) that has actual use in the 🌎. At this stage in life, I'm trying to leave things better than I found them. Lucky for me, I'm able to work on mission critical software at RapidSOS 🚔 🚒 🚑 
 
 I warn you — anything you find in my repos is likely code I've written for fun and not meant to showcase my skills or do anything for my "brand". It's purely for fun and in tradition with the early days of GitHub. Cheers 🍻 to the legend `_why`, who inspired me to share most of the things I have scattered in these repos.
 
