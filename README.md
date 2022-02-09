@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Somehow you've ended up on my page!
+
+Well here it is...
+
+I like building everything (and anything) that has actual use in the 🌎. At this stage in life, I'm trying to leave things better than I found them. Luckily, I'm able to work on mission critical software at RapidSOS.
+
+I warn you — anything you find in my repos is likely code I've written for fun and not mean't to showcase my skills or do anything for my "brand". It's purely for fun and in tradition with the early days of GitHub. Cheers 🍻 to the legend `_why`, who inspired me to share most of the things I have scattered in these repos.
+
 <!--
 **ef2k/ef2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
