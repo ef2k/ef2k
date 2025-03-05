@@ -10,6 +10,6 @@ I’m focused on solving this, making sure AI is a tool that empowers engineers�
 
 The future of AI-driven development is inevitable—what we do now will define whether it fuels progress or creates new burdens.  
 
-⚡ If this resonates, follow along we should chat. I'm a believer in collaboration, together we can continue to make the huge strides that got us here.
+⚡ If this resonates, we should chat. I'm a believer in collaboration, together we can continue to make the huge strides that got us here.
 
 **Tech I'm working with:** Go, TypeScript, Node  
