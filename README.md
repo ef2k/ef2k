@@ -1,4 +1,4 @@
-Nowadays, I spend my time thinking about **AI-generated code**—how to make it reliable, maintainable, and not a ticking time bomb. I’ve seen firsthand how AI-generated changes, left unchecked, turn clean codebases into tangled messes of technical debt.  
+Nowadays, I spend my time thinking about **AI-generated code**—how to make it reliable, maintainable, and not an unmaintainable mess. I’ve seen firsthand how AI-generated changes, left unchecked, turn clean codebases into tangled complexity of technical debt.  
 
 AI is changing how we build software, generating more code than ever, but that speed comes with real challenges. Codebases are evolving faster than teams can manage, and without the right safeguards, AI-generated changes will quickly spiral into technical debt.
 
