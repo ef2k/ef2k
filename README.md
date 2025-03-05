@@ -8,6 +8,6 @@ This isn’t a distant problem—it’s happening now. Companies are already str
 
 ⚡ Imagine a future where engineers and AI work together to build systems that don’t just ship fast but stand the test of time.  
 
-I’m working on solving this through **AI-powered code governance.** If this resonates, we should chat!  
+I’m working on solving this through **AI-assisted code governance.** If this resonates, we should chat!  
 
 **Tech I'm working with:** Go, TypeScript, Node  
