@@ -1,4 +1,4 @@
-I'm currently working on AI code governance.
+I'm working on AI code governance.
 
 AI is changing how we build software, generating more code than ever, but that speed comes with real challenges. Codebases are evolving faster than teams can manage, and without the right safeguards, AI-generated changes will quickly spiral into technical debt.
 
